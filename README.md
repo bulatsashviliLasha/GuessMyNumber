@@ -1,2 +1,1 @@
-# GuessMyNumber
-[link](https://lashareichert.github.io/GuessMyNumber/GMN/)
+# [GuessMyNumber](https://bulatsashviliLasha.github.io/GuessMyNumber/GMN/)
